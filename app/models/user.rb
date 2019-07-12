@@ -13,6 +13,4 @@ class User < ActiveRecord::Base
      end
    end
 
-         :recoverable, :rememberable, :trackable, :validatable
-
 end
